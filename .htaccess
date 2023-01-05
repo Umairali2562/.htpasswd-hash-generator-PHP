@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected 'C:\xampp\htdocs\A'"
+AuthUserFile "C:\xampp\htdocs\A/pass.txt"
+Require valid-user
